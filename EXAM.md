@@ -12,6 +12,8 @@ This assessment evaluates your ability to implement a real-world feature that in
 
 You'll be implementing a simplified user management dashboard with the following features:
 
+UI Design Refereence : frontend_test\Userdashboard_UI_Reference.png & frontend_test\Uireference.md
+
 1. Display a list of users from an API
 2. View user details
 3. Edit user information
